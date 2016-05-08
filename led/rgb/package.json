@@ -1,0 +1,11 @@
+{
+  "name": "@akoenig/pc-led-rgb",
+  "version": "1.0.0",
+  "author": "André König <andre.koenig@posteo.de>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "johnny-five": "^0.9.49"
+  }
+}
