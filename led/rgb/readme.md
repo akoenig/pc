@@ -14,7 +14,7 @@ A simple circuit with three LED's.
 
 ## Circuit
 
-![Circuit](/circuit.png)
+![Circuit](/led/rgb/circuit.png)
 
 ## Running
 
