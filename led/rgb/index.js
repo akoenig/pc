@@ -13,9 +13,7 @@
 
 'use strict';
 
-'use strict';
-
-const five = require("johnny-five");
+const five = require('johnny-five');
 
 //
 // IMPORTANT: Please adjust your port accordingly
